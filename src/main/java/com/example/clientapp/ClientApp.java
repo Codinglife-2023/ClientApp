@@ -8,7 +8,10 @@ import java.net.URL;
 
 public class ClientApp {
 
+    
     private static final String BASE_URL = "http://localhost:8080/api";
+
+    ;
 
     public static void main(String[] args) {
         ClientApp clientApp = new ClientApp();
